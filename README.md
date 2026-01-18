@@ -6,7 +6,7 @@ Dunia software merupakan dunia yang luas. Tidak memungkinkan untuk mengajarkan d
 
 Semua kelas dalam semua bentuk di NEO-X School menggunakan mekanisme garis besar proses berikut:
 
-![Garis besar proses pembelajaran di NEO-X School](./img/NEO-X-School-01-proses-umum.png)
+![Garis besar proses pembelajaran di NEO-X School](./img/NEO-X-School-01-proses-umum--tr.png)
 
 ## Proses transformasi
 

@@ -82,7 +82,7 @@
         <mxCell id="X0oGztjTPqQcy9WDchtR-28" parent="1" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.user;fillColor=#D2D3D3;gradientColor=none;" value="Enthusiastic&amp;nbsp;&lt;div&gt;Student&lt;/div&gt;" vertex="1">
           <mxGeometry height="63" width="45" x="-30" y="147" as="geometry" />
         </mxCell>
-        <mxCell id="X0oGztjTPqQcy9WDchtR-29" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="All backlogs can be traced back to vision - learning outcome" vertex="1">
+        <mxCell id="X0oGztjTPqQcy9WDchtR-29" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="All backlogs can be traced back to vision - learning outcomes" vertex="1">
           <mxGeometry height="30" width="160" x="106" y="560" as="geometry" />
         </mxCell>
       </root>
