@@ -4,7 +4,16 @@ Dunia software merupakan dunia yang luas. Tidak memungkinkan untuk mengajarkan d
 
 ## Garis Besar Umum
 
-Semua kelas dalam semua bentuk di NEO-X School menggunakan mekanisme garis besar proses berikut:
+Secara umum, aliran proses kelas adalah sebagai berikut. 
+
+![Aliran proses kelas di NEO-X School](./img/mekanisme-kelas-NEO-X.png)
+
+Siswa sebaiknya memahami aliran proses ini untuk memahami kerangka besar sebelum masuk ke dalam hal-hal yang sifatnya detail teknis. Selain itu, siswa juga akan mengetahui apa yang akan terjadi dengan proyek _capstone_ yang dibuat oleh siswa tersebut secara individu maupun bersama tim. Perlu diketahui, hasil dari proyek _capstone_ merupakan artefak (dengan lisensi) bebas dan _open source_. Ini berarti siswa atau siapapun juga bisa tetap mengembangkan di luar proses di NEO-X School jika berminat ingin mengembangkan sendiri secara lebih lanjut. Ada beberapa hal yang perlu dipastikan supaya tidak terjadi kebingungan:
+
+1. Untuk proyek _capstone_ individu, lisensi wajib _free / open source_ dan hak cipta ada pada siswa yang bersangkutan.
+2. Untuk proyek _capstone_ tim, lisensi wajib _free / open source_ . Jika melibatkan _engineers_ dari NEO-X secara signifikan, maka hak cipta ada pada PT Neo Akselerasi Indonesia. Jika proses dilaksanakan mayoritas secara mandiri, maka hak cipta ada pada tim yang bersangkutan.
+
+Selain itu, untuk lebih memahami proses pendidikan, semua kelas dalam semua bentuk di NEO-X School menggunakan mekanisme garis besar proses berikut:
 
 ![Garis besar proses pembelajaran di NEO-X School](./img/NEO-X-School-01-proses-umum.png)
 
