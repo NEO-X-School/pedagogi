@@ -76,7 +76,7 @@ Pada repo tersebut, isikan juga berbagai hasil file yang dikerjakan pada hari it
 
 Berikut adalah contoh direktori yang dibuat:
 
-![Struktur direktori](../img/struktur-dir.png)
+![Struktur direktori](img/struktur-dir.png)
 
 Peserta diwajibkan posting ke akun media sosial LinkedIn peserta serta salah satu media sosial lainnya (Facebook, Threads, IG, dan lain-lain), berisi materi yang sudah ditulis di dalam GitHub tersebut dan menyertakan URL ke repo yang mereka buat. Proses ini merupakan salah satu metriks evaluasi penilaian.
 
