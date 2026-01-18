@@ -1,4 +1,4 @@
-# Pedagogy
+# Pedagogi
 
 Dunia software merupakan dunia yang luas. Tidak memungkinkan untuk mengajarkan dan memberikan bekal ke siswa tentang semua hal. Oleh karena itu, sekolah ini lebih menekankan pada kekuatan konsep melalui _mastery-based learning_ (MBL) sehingga memudahkan adaptasi siswa ke dunia industri serta penguatan pada karir mereka kelak. Konsep yang kuat tidak dilakukan dengan cara memberikan kuliah-kuliah seperti pada perguruan tinggi tetapi melalui latihan dan pembelajaran praktik yang intensif dengan pemahaman ke arah konsep. Siswa hanya akan melanjutkan ke proses berikutnya jika berhasil menunjukkan pemahaman mendalam (_deep understanding and mastery_) pada proses tersebut. Repo ini selanjutnya akan menjelaskan tentang pedagogi yang digunakan di NEO-X School. 
 
