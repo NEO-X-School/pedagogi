@@ -10,10 +10,17 @@ Semua kelas dalam semua bentuk di NEO-X School menggunakan mekanisme garis besar
 
 ## Proses transformasi
 
+Pedagogi yang digunakan oleh NEO-X School merupakan adaptasi dari [Disciplined Agile](https://www.pmi.org/disciplined-agile/introduction-to-disciplined-agile) yang digunakan untuk proses pembelajaran. Proses transformasi yang diuraikan di bagian ini adalah proses transformasi default. Pada prosesnya, mentor dan siswa akan menentukan WoW (_Way of Working_) yang lebih sesuai untuk batch tersebut dengan pertimbangan utama sebaagi berikut:
+
+1. Proses bisa online maupun offline. Jam dimulai dan berakhir tetap.
+2. Presentasi setelah selesai penyelesaian backlog pada timeframe tertentu wajib dilaksanakan secara offline.
+3. Target dan proses pengerjaan tetap sama, masalah online atau offline hanya masalah platform.
+
 ### Ketentuan Umum
 
 * Pendidikan dilaksanakan pada hari kerja (senin - jumat), dari jam 09:00 - 17:00.
 * Peserta menggunakan laptop sendiri, RAM minimal 16 GB, OS yang didukung hanya Linux atau OS berbasis UNIX lainnya.
+* Pakaian dan asesoris siswa tidak diatur secara khusus. Meskipun demikian, jika terjadi kasus tertentu, NEO-X School berhak menentukan penggunaan pakaian maupun asesoris yang diperbolehkan.
 * Kehadiran sifatnya mutlak. Ketidakhadiran akan menjadi perhatian khusus dan bisa mengarah ke dihentikannya peserta dari proses pendidikan. Masalah seperti ini akan menjadi perhatian internal dan akan dirapatkan oleh internal NEO-X School untuk tindak lanjut dari kondisi tersebut.
 * Waktu untuk beribadah tidak boleh diganggu. Siswa dipersilahkan meninggalkan kelas untuk mengerjakan ibadah. Jam untuk ibadah ini tidak ditulis secara khusus tetapi siswa dipersilahkan melaksanakan sesuai dengan jam masing-masing.
 * Siswa diminta semaksimal mungkin berkontribusi ke proyek-proyek open source yang ada di GitHub.
@@ -38,12 +45,11 @@ _Aktivitas Harian_
 
 Setiap hari, akan dilakukan pemberian materi serta latihan intensif dengan alokasi waktu sebagai berikut:
 
-
 - Sebelum jam 9: presensi kedatangan
 - Jam 9 - 10: pemberian materi, penjelasan serta contoh-contoh oleh mentor.
 - Jam 10 - 12: latihan materi dari mentor.
-- Jam 13 - 17: latihan kasus lebih kompleks.
-- jam 17: presensi pulang.
+- Jam 13 - 16: latihan kasus lebih kompleks.
+- jam 16: presensi pulang.
 
 Setelah selesai, hasil untuk setiap hari di-push ke repo GitHub dengan nama repo **NEO-X**. Pada repo tersebut:
 
@@ -87,8 +93,7 @@ Pada akhir dari timeframe, akan dilakukan evaluasi pemahaman oleh mentor. Evalua
 
 Hasil dari pengujian ini adalah kelanjutan siswa di tahap berikutnya: melanjutkan di proses berikutnya atau menguatkan kembali sisi-sisi tertentu sesuai evaluasi dari mentor. Perlu diketahui, evaluasi ini bukan merupakan hal yang bersifat kaku. Siswa bisa kembali mengerjakan proses-proses sebelumnya sampai kemudian mendapatakan pemahamana yang mendalam dan kemudian melanjutkan ke proses berikutnya. Hanya saja, jika ini terjadi maka siswa yang bersangkutan harus bekerja lebih keras lagi untuk mengikuti timeframe sampai selesai.
 
-
-### Capstone - Initiator
+### Capstone Mandiri - Initiator
 
 _Tujuan_
 
@@ -105,7 +110,7 @@ _Timeframe kedua_
 * Hari 1 - timeframe selesai: siswa mulai mengerjakan proyek _capstone_. Siswa mengerjakan pembuatan software dan melengkapi dokumentasi. GitHub releases berisi berbagai rilis (versi Beta, RC1, RC2, dan seterusnya sampai dengan rilis).
 * Hari terakhir _timeframe_, siswa mempresentasikan hasil pekerjaan. Tim akademik dan mentor melakukan penilaian serta pengujian. Hasil penilaian ini menentukan apakah siswa berhasil masuk ke tahap berikutnya atau gagal. Jika gagal, siswa akan diberi waktu untuk memperbaiki hasil dan kemudian akan dilakukan evaluasi ulang.
 
-### Capstone - Team Player
+### Capstone Mandiri - Team Player
 
 _Tujuan_
 
