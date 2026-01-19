@@ -27,7 +27,7 @@ Pedagogi yang digunakan oleh NEO-X School merupakan adaptasi dari [Disciplined A
 
 ### Ketentuan Umum
 
-* Pendidikan dilaksanakan pada hari kerja (senin - jumat), dari jam 09:00 - 17:00.
+* Pendidikan dilaksanakan pada hari kerja (senin - jumat), dari jam 09:00 - 16:00.
 * Peserta menggunakan laptop sendiri, RAM minimal 16 GB, OS yang didukung hanya Linux atau OS berbasis UNIX lainnya.
 * Pakaian dan asesoris siswa tidak diatur secara khusus. Meskipun demikian, jika terjadi kasus tertentu, NEO-X School berhak menentukan penggunaan pakaian maupun asesoris yang diperbolehkan.
 * Kehadiran sifatnya mutlak. Ketidakhadiran akan menjadi perhatian khusus dan bisa mengarah ke dihentikannya peserta dari proses pendidikan. Masalah seperti ini akan menjadi perhatian internal dan akan dirapatkan oleh internal NEO-X School untuk tindak lanjut dari kondisi tersebut.
