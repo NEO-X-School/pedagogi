@@ -32,7 +32,7 @@ Pedagogi yang digunakan oleh NEO-X School merupakan adaptasi dari [Disciplined A
 
 ### *Tools*
 
-* NEO-X School menggunakan Linux dan / atau OS berbasis UNIX lainnya. Secara khusus, NEO-X School meng-*endorse* penggunakan OS Linux berbasis SUSE: [openSUSE](https://www.opensuse.org/) atau [SUSE Linux](https://www.suse.com/). Jika menggunakan selain itu, diperbolehkan tetapi *you are on your own*.
+* NEO-X School menggunakan Linux dan / atau OS berbasis UNIX lainnya. Secara khusus, NEO-X School tidak meng-*endorse* distro tertentu. 
 * NEO-X School menggunakan [Git](https://git-scm.com/) sebagai alat pengelolaan kode sumber (*source code*) dan [GitHub](https://github.com/) sebagai platform hosting kode sumber.
 * NEO-X School menggunakan [Zed](https://zed.sh/) sebagai IDE. Penggunaan Zed diwajibkan karena memungkinkan kolaborasi dengan tim secara lebih baik. Dalam proses pembelajaran, Zed akan digunakan untuk menulis kode dan mengelola proyek. Penggunaan Zed memungkinkan tim berada dalam konteks yang sama saat pengembangan proyek sehingga memudahkan proses *debugging* atau *troubleshooting*.
 
